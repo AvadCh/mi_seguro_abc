@@ -1,5 +1,6 @@
 Archivo de Transformación de datos
 
 1. Aplicar regla de ordenamiento
-2. aplicar filtro por campos nulos (DNI)
+2. aplicar filtro por campos nulos (nombre, fecha de nacimiento)
 3. Reemplazar tercer nombre
+4. Eliminar datos duplicados (igual el DNI)
